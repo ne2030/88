@@ -1,4 +1,4 @@
-# Arete
+# 88 Boilerplate
 
 Mobile-first web service with separate frontend and backend applications.
 
